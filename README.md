@@ -5,7 +5,7 @@
 > A great list about Nodejs use in Portugal
 
 <p align="center">
-  <img src="https://nodejs.org/static/apple-touch-icon.png" alt="Nodejs Logo" title="Nodejs Logo">
+  <img src="https://nodejs.org/static/images/favicons/apple-touch-icon.png" alt="Nodejs Logo" title="Nodejs Logo">
 </p>
 
 The number of Nodejs applications has grown a lot around the world. In Portugal it is not different.
@@ -55,6 +55,7 @@ All content **must** be arranged in alphabetical order.
 ### Security :lock:
 
 * [Jscrambler](https://jscrambler.com/)
+* [Onfido](https://onfido.com/)
 
 ## Portuguese projects using Nodejs
 
