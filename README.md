@@ -20,6 +20,7 @@ This is a list of companies and projects using Nodejs in Portugal.
 * [Companies using Nodejs](#companies-using-nodejs)
   * [Consultancy :man_office_worker:](#consultancy-man_office_worker)
   - [E-commerce :shopping:](#e-commerce-shopping)
+  - [FinTech :moneybag:](#fintech-moneybag)
   * [Security :lock:](#security-lock)
 * [Portuguese projects using Nodejs](#portuguese-projects-using-nodejs)
 
@@ -42,15 +43,20 @@ All content **must** be arranged in alphabetical order.
 ## Companies using Nodejs
 
 ### Consultancy :man_office_worker:
-
-* [Bold International](https://www.boldint.pt/)
-* [Growin](https://www.growin.com/pt/homepage-pt/)
-* [Kwan](https://www.kwan.pt/)
+* [Adentis](http://www.adentis.pt)
+* [Bold International](https://www.boldint.pt)
+* [Findmore](https://findmore.pt)
+* [Growin](https://www.growin.com/pt/homepage-pt)
+* [Kwan](https://www.kwan.pt)
 * [YLD](https://www.yld.io)
 
 ###  E-commerce :shopping:
 
 * [OLX](https://www.olxgroup.com/)
+
+### FinTech :moneybag:
+
+* [Fidel](https://fidel.uk/)
 
 ### Security :lock:
 
